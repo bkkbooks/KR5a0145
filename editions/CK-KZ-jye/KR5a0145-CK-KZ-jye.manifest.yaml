@@ -1,0 +1,39 @@
+canonical_identifier: bkk:krp/KR5a0145/CK-KZ-jye/v1
+canonical_location: https://kanripo.org/bkk/KR5a0145/CK-KZ-jye/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 紫陽真人悟真拾疑
+  date: '2015-08-28 23:39:03.855927'
+  source:
+    repository: kanripo
+    path: KR5a0145
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: CK-KZ-jye
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5a0145_000-CK-KZ-jye.yaml, hash: 'sha256:a97d0d2c3bc2e6d96e4a0435d2bb840ffccb5cc3e4df87cf22ebe57c03585d41'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5a0145_000-CK-KZ-jye.markers.yaml, hash: 'sha256:33208ce89f97db56460773fa4110d6988f0994c9b9d86863b32f2050021f27ce'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5a0145_CK-KZ_01p024a
+    span:
+    - body
+    - 0
+    - 6165
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:0bff848401a1e582c7802c7f9856de135850a3358d43e4feed7b75138d50b5de
