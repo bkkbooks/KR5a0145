@@ -99,6 +99,7 @@ markers:
   - {type: variant, offset: 159, length: 2, content: 六首, CK-KZ: ''}
   - {type: variant, offset: 159, length: 2, content: 六首, CK-KZ-jye: ''}
   - {type: variant, offset: 159, length: 2, content: 六首, YP-C: ''}
+  - {type: voice, offset: 159, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 161, content: ), id: KR5a0145_krp_000-bkkpn2}
   - {type: 'kr:newline', offset: 161, content: '
 
@@ -1835,4 +1836,4 @@ markers:
   - {type: variant, offset: 3150, length: 0, content: '', YP-C: 一卷而末載紫賢眞人題跋數語有所謂贈白龍洞劉道人歌一篇者乃存其目而無其文也徧考新舊刻本經久不獲似爲闕典遂博搜道藏至稱字函第十册得玉谿子李公諱𥳑易者注解此歌頗詳愚玩味再三喜而弗寐葢數百年放失之遺文今幸重列於故處何愉快能踰此耶遂綴片語於𥳑末以識𡻕月云天啟壬戌𡻕孟春吉旦復初道人高時明薰沐稽首拜題}
   - {type: page-break, offset: 3150, content: '', id: KR5a0145_YP-C_15kuiji-02-0127a, image: JY176/15kuiji-02-0127a.png}
   back: []
-hash: sha256:5b3f246f78928a900791e054b0dbce1bd8d10de327a1eee395177bad5362dd93
+hash: sha256:73cc51eeaa87f7b2e2dcbbb27fd29ee76879431c2d235a6f9046b26a1d43986e
